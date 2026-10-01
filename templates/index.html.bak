@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EntityPulse AI — Decision Engine for Business Data</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- TOP HEADER -->
+    <header class="app-header">
+        <div class="header-left">
+            <div class="logo-icon">⚡</div>
+            <div>
+                <div class="brand-title">EntityPulse AI</div>
+                <div class="brand-subtitle">AI Decision Engine for Business Data · Problem Statement 04</div>
+            </div>
+        </div>
+        <div class="header-right">
+            <span class="badge badge-team">Team: Hustle Squad</span>
+            <span class="badge badge-model">Model: LightGBM GBDT (89.7% Precision)</span>
+            <span class="badge badge-status"><span class="status-dot"></span> Live Engine Ready</span>
+        </div>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <main class="main-container">
+
+        <!-- 4-STEP JUDGE EXPLANATION BANNER (Input -> Process -> Output -> Problem Solved) -->
+        <section class="flow-banner">
+            <div class="flow-header">
+                <h3>🚀 How EntityPulse AI Works — In 4 Clear Steps</h3>
+                <p>Built specifically for <strong>Problem Statement 4</strong>: Analyzing business data, generating traceable insights, and recommending high-ROI decisions.</p>
+            </div>
+            <div class="flow-grid">
+                <div class="flow-step">
+                    <div class="step-num">1. INPUT</div>
+                    <div class="step-title">Multi-Source Messy Records</div>
+                    <div class="step-desc">
+                        Fragmented data from <strong>Reference CRM (S1)</strong>, <strong>Legacy ERP (S2)</strong>, and <strong>Procurement (S3)</strong> with typos, DBAs, and legal suffix variations.
+                    </div>
+                    <div class="step-tag">Input Data: 12.5M+ Records</div>
+                </div>
+
+                <div class="flow-step">
+                    <div class="step-num">2. PROCESS</div>
+                    <div class="step-title">High-Precision ML Resolution</div>
+                    <div class="step-desc">
+                        Country-partitioned tiered blocking + 13-feature <strong>LightGBM Classifier</strong> (trained on real noisy pairs) links records with <strong>89.7% precision</strong>.
+                    </div>
+                    <div class="step-tag">LightGBM & RapidFuzz</div>
+                </div>
+
+                <div class="flow-step">
+                    <div class="step-num">3. OUTPUT</div>
+                    <div class="step-title">Traceable Golden Graph</div>
+                    <div class="step-desc">
+                        Synthesizes unified Golden Entities with <strong>100% provenance</strong>: every single contract rate, invoice, and attribute traces back to raw row IDs.
+                    </div>
+                    <div class="step-tag">Zero Hallucination</div>
+                </div>
+
+                <div class="flow-step highlight">
+                    <div class="step-num">4. PROBLEM SOLVED</div>
+                    <div class="step-title">Actionable Decision Cards</div>
+                    <div class="step-desc">
+                        Autonomous detection of <strong>duplicate invoices</strong> and <strong>split-rate variances</strong>, recommending concrete financial actions with verified ROI.
+                    </div>
+                    <div class="step-tag">$271K+ Savings Identified</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- KPI SUMMARY METRICS RIBBON -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-label">Analyzed Business Spend</div>
+                <div class="kpi-val" id="kpi-spend">$12,836,000</div>
+                <div class="kpi-sub">Across 3 Enterprise Data Sources</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Golden Entities Resolved</div>
+                <div class="kpi-val" id="kpi-entities">1,732,544</div>
+                <div class="kpi-sub">100% Test Set Coverage</div>
+            </div>
+            <div class="kpi-card success">
+                <div class="kpi-label">Identified Rate Savings</div>
+                <div class="kpi-val" id="kpi-savings">$271,625 / yr</div>
+                <div class="kpi-sub">Contract Harmonization ROI</div>
+            </div>
+            <div class="kpi-card danger">
+                <div class="kpi-label">Duplicate Invoices Blocked</div>
+                <div class="kpi-val" id="kpi-fraud">$60,500</div>
+                <div class="kpi-sub">Direct Cash Recovery Found</div>
+            </div>
+            <div class="kpi-card highlight">
+                <div class="kpi-label">ML Match Precision</div>
+                <div class="kpi-val" id="kpi-precision">89.65%</div>
+                <div class="kpi-sub">93.5% Singleton Accuracy</div>
+            </div>
+        </section>
+
+        <!-- NAVIGATION TABS -->
+        <nav class="tab-nav">
+            <button class="tab-btn active" onclick="switchTab('actions')">💡 Actionable Decision Board</button>
+            <button class="tab-btn" onclick="switchTab('entities')">🔍 Traceable Entity Explorer</button>
+            <button class="tab-btn" onclick="switchTab('playground')">🧪 Live ML Model Playground</button>
+            <button class="tab-btn" onclick="switchTab('assistant')">🤖 Traceable AI Assistant</button>
+            <button class="tab-btn" onclick="switchTab('hitl')">🛡️ Human-in-the-Loop Review (2)</button>
+        </nav>
+
+        <!-- TAB 1: ACTIONABLE DECISION BOARD -->
+        <section id="tab-actions" class="tab-content active">
+            <div class="section-intro">
+                <h2>Prioritized Business Decisions & Recommended Actions</h2>
+                <p>Each recommendation is generated by analyzing the unified Golden Knowledge Graph and grounded in verifiable row-level citations.</p>
+            </div>
+            <div id="actions-container" class="action-cards-grid">
+                <!-- Injected via app.js -->
+            </div>
+        </section>
+
+        <!-- TAB 2: TRACEABLE ENTITY & LINEAGE EXPLORER -->
+        <section id="tab-entities" class="tab-content">
+            <div class="section-intro">
+                <h2>Multi-Source Entity Lineage & Golden Directory</h2>
+                <p>Inspect how noisy, conflicting records across CRM, ERP, and Procurement are linked to authoritative Golden Records.</p>
+            </div>
+            <div class="entity-explorer-layout">
+                <div class="entity-list-pane">
+                    <input type="text" id="entity-search-input" placeholder="Search entity by name, category, or country..." oninput="filterEntities()">
+                    <div id="entity-list-container">
+                        <!-- Injected via app.js -->
+                    </div>
+                </div>
+                <div class="entity-detail-pane" id="entity-detail-container">
+                    <div class="placeholder-msg">Select a Golden Entity on the left to inspect multi-source lineage and pricing breakdown.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 3: LIVE ML MODEL PLAYGROUND -->
+        <section id="tab-playground" class="tab-content">
+            <div class="section-intro">
+                <h2>Live Machine Learning Model Playground</h2>
+                <p>Test the competition-trained <strong>LightGBM + RapidFuzz Entity Resolution Model</strong> on any two business records in real time.</p>
+            </div>
+            <div class="playground-layout">
+                <div class="playground-inputs">
+                    <div class="sample-pills">
+                        <span>Load Sample Pair:</span>
+                        <button class="pill-btn" onclick="loadPlaygroundSample(0)">Moran Staffing (Typos/Inversion)</button>
+                        <button class="pill-btn" onclick="loadPlaygroundSample(1)">Modern Packaging (Address/Suffix)</button>
+                        <button class="pill-btn" onclick="loadPlaygroundSample(2)">QH Vendome (DBA/Format)</button>
+                    </div>
+
+                    <div class="record-box">
+                        <h4>Record 1 (Reference Source S1)</h4>
+                        <div class="form-group">
+                            <label>Business Name:</label>
+                            <input type="text" id="pg-s1-name" value="Moran Staffing LLC">
+                        </div>
+                        <div class="form-group">
+                            <label>Business Address:</label>
+                            <input type="text" id="pg-s1-addr" value="1902 Shamrock Road, Dothan, AL">
+                        </div>
+                    </div>
+
+                    <div class="record-box">
+                        <h4>Record 2 (Candidate Source S2/S3)</h4>
+                        <div class="form-group">
+                            <label>Business Name:</label>
+                            <input type="text" id="pg-s2-name" value="LLC Moran Staffing">
+                        </div>
+                        <div class="form-group">
+                            <label>Business Address:</label>
+                            <input type="text" id="pg-s2-addr" value="1902 Shamrock Rd, Alabama, Dothan">
+                        </div>
+                    </div>
+
+                    <button class="btn btn-primary" onclick="scorePlaygroundPair()">⚡ Run LightGBM Model Scoring</button>
+                </div>
+
+                <div class="playground-results" id="playground-results-container">
+                    <div class="placeholder-msg">Click "Run LightGBM Model Scoring" to inspect decision probability and 13 extracted features.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 4: TRACEABLE AI ASSISTANT -->
+        <section id="tab-assistant" class="tab-content">
+            <div class="section-intro">
+                <h2>Traceable Business Decision Assistant</h2>
+                <p>Ask questions in plain English. Every insight cites the exact row IDs from Source 1, 2, and 3 with zero hallucination.</p>
+            </div>
+
+            <div class="assistant-layout">
+                <div class="suggested-queries">
+                    <span>Try asking:</span>
+                    <button class="pill-btn" onclick="sendQuickQuery('Where are we paying duplicate invoices?')">Duplicate Invoices</button>
+                    <button class="pill-btn" onclick="sendQuickQuery('Which vendors have contract pricing discrepancies?')">Contract Price Variances</button>
+                    <button class="pill-btn" onclick="sendQuickQuery('Tell me everything about Moran Staffing LLC')">Entity 360 Profile</button>
+                </div>
+
+                <div class="chat-container" id="chat-messages">
+                    <div class="chat-bubble ai">
+                        <strong>EntityPulse Assistant:</strong> Hello! I am your AI Decision Engine. I analyze the unified Golden Knowledge Graph and recommend actions with 100% data traceability. What would you like to explore?
+                    </div>
+                </div>
+
+                <div class="chat-input-bar">
+                    <input type="text" id="chat-input" placeholder="Ask about duplicate payments, rate variances, or vendor profiles..." onkeydown="if(event.key==='Enter') sendChatQuery()">
+                    <button class="btn btn-primary" onclick="sendChatQuery()">Send Query</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- TAB 5: HUMAN-IN-THE-LOOP (HITL) GOVERNANCE QUEUE -->
+        <section id="tab-hitl" class="tab-content">
+            <div class="section-intro">
+                <h2>Human-in-the-Loop (HITL) Governance Queue</h2>
+                <p>For high-stakes enterprise decisions, borderline match probabilities between <strong>0.65 and 0.85</strong> are flagged for human sign-off.</p>
+            </div>
+            <div id="hitl-container" class="hitl-cards-grid">
+                <!-- Injected via app.js -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="app-footer">
+        <div>EntityPulse AI · BFWAI / Hack 26 Challenge · Problem Statement 04</div>
+        <div>Developed by Team <strong>Hustle Squad</strong> · Full Stack ML & Decision Intelligence</div>
+    </footer>
+
+    <!-- JAVASCRIPT LOGIC -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
