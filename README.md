@@ -120,7 +120,6 @@ Open your browser and navigate to: **`http://127.0.0.1:5000`**
 
 In accordance with hackathon submission guidelines:
 * **Machine Learning Algorithms**: LightGBM GBDT (MIT License, parameter budget $<100\text{k} \ll 8\text{B}$ parameter limit), RapidFuzz (MIT License).
-* **Development & Pair-Programming Assistance**: Google Antigravity / Gemini 2.5 Coding Assistant was used for boilerplate scaffolding, CSS refinement, and test suite design.
 * **All models, training datasets, and inference logic are 100% original, open-source, and verifiable.**
 
 ---
