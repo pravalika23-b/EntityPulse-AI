@@ -4,6 +4,12 @@ Flask REST API connecting ML Entity Resolution, Knowledge Graph, Batch CSV Engin
 """
 
 import os
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["VECLIB_MAXIMUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
+
 import io
 import csv
 import json
@@ -93,17 +99,21 @@ def record_hitl_decision(review_id):
 
 @app.route("/api/ml/score", methods=["POST"])
 def score_pair():
-    body = request.get_json() or {}
-    s1_name = body.get("s1_name", "").strip()
-    s1_addr = body.get("s1_addr", "").strip()
-    s2_name = body.get("s2_name", "").strip()
-    s2_addr = body.get("s2_addr", "").strip()
+    try:
+        body = request.get_json(silent=True) or {}
+        s1_name = body.get("s1_name", "").strip()
+        s1_addr = body.get("s1_addr", "").strip()
+        s2_name = body.get("s2_name", "").strip()
+        s2_addr = body.get("s2_addr", "").strip()
 
-    if not s1_name or not s2_name:
-        return jsonify({"status": "error", "message": "Business names are required"}), 400
+        if not s1_name or not s2_name:
+            return jsonify({"status": "error", "message": "Business names are required"}), 400
 
-    result = er_service.score_pair(s1_name, s1_addr, s2_name, s2_addr)
-    return jsonify({"status": "success", "data": result})
+        result = er_service.score_pair(s1_name, s1_addr, s2_name, s2_addr)
+        return jsonify({"status": "success", "data": result})
+    except Exception as e:
+        print(f"[API] Error in /api/ml/score: {e}")
+        return jsonify({"status": "error", "message": str(e)}), 500
 
 # =========================================================================
 # NEW HIGH-IMPACT FEATURES: CSV UPLOAD, BENCHMARK & AUDIT EXPORT

@@ -302,6 +302,14 @@ async function scorePlaygroundPair() {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ s1_name, s1_addr, s2_name, s2_addr })
         });
+        if (!res.ok) {
+            let errorMsg = `Server returned HTTP ${res.status}`;
+            try {
+                const errData = await res.json();
+                if (errData.message) errorMsg = errData.message;
+            } catch (_) {}
+            throw new Error(errorMsg);
+        }
         const json = await res.json();
         if (json.status === 'success') {
             const d = json.data;

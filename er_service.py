@@ -58,11 +58,19 @@ class ERModelService:
         features = extract_pair_features(n1, a1, n2, a2, candidate_id)
         feature_dict = {name: round(float(val), 4) for name, val in zip(FEATURE_NAMES, features)}
 
+        prob = None
         if self.model:
-            prob = float(self.model.predict(np.array([features], dtype=np.float32))[0])
-        else:
-            # Fallback heuristic using combined feature score if model file is unavailable
-            prob = float(feature_dict["combined_score"])
+            try:
+                # num_threads=1 prevents OpenMP deadlock/crash in forked Linux workers
+                preds = self.model.predict(np.array([features], dtype=np.float32), num_threads=1)
+                prob = float(preds[0])
+            except Exception as e:
+                print(f"[ERService] Model predict warning: {e}, falling back to combined score")
+                prob = None
+
+        if prob is None:
+            # Fallback heuristic using combined feature score
+            prob = float(feature_dict.get("combined_score", 0.0))
 
         # Classification decision based on our competition-optimized threshold
         if prob >= 0.85:

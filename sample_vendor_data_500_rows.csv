@@ -1,0 +1,501 @@
+record_id,vendor_name,vendor_address,category,invoice_amount,department
+REC-AUTO-000001,Horizon Commercial Ltd,"312 Elm St, Dallas, TX",Cleaning Services,16372.36,Purchasing
+REC-AUTO-000002,Pinnacle Marketing Inc,"88 Madison Ave, New York, NY",Advertising & Media,53800.81,Operations
+REC-AUTO-000003,Vanguard Cyber Corp,"500 Silicon Way, San Jose, CA",IT Services & Cloud,147818.25,Purchasing
+REC-AUTO-000004,Legal Sterling Inc,"700 K Street NW, Washington, DC",Legal & Compliance,181450.23,HQ Central
+REC-AUTO-000005,Moran Staffing Inc,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,81810.71,Regional Plant
+REC-AUTO-000006,Vanguard Cyber LLC,"500 Silicon Way, San Jose, CA",IT Services & Cloud,122235.97,IT Dept
+REC-AUTO-000007,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Operations
+REC-AUTO-000008,Sterling Legal Ltd,"700 K Street NW, Washington, DC",Legal & Compliance,161659.74,Regional Plant
+REC-AUTO-000009,Facility Bluecrest Ltd,"220 Market St, Philadelphia, PA",Facilities & Janitorial,32989.91,IT Dept
+REC-AUTO-000010,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Operations
+REC-AUTO-000011,Titan Heavy LLC,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,90071.56,Supply Chain
+REC-AUTO-000012,Legal Sterling Ltd,"700 K St NW, Washington, DC",Legal & Compliance,184759.75,HQ Central
+REC-AUTO-000013,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,IT Dept
+REC-AUTO-000014,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Operations
+REC-AUTO-000015,Horizon Commercial Incorporated,"312 Elm St, Dallas, TX",Cleaning Services,20748.82,IT Dept
+REC-AUTO-000016,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Supply Chain
+REC-AUTO-000017,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Purchasing
+REC-AUTO-000018,Horizon Commercial LLC,"312 Elm St, Dallas, TX",Cleaning Services,16294.07,HQ Central
+REC-AUTO-000019,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Operations
+REC-AUTO-000020,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Supply Chain
+REC-AUTO-000021,Titan Heavy,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,81905.64,Supply Chain
+REC-AUTO-000022,Packaging Modern LLC,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,39585.74,Operations
+REC-AUTO-000023,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Operations
+REC-AUTO-000024,Vanguard Cyber Incorporated,"500 Silicon Way, San Jose, CA",IT Services & Cloud,136793.44,HQ Central
+REC-AUTO-000025,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,HQ Central
+REC-AUTO-000026,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,HQ Central
+REC-AUTO-000027,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Supply Chain
+REC-AUTO-000028,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000029,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,HQ Central
+REC-AUTO-000030,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000031,Pinnacle Marketing Inc,"88 Madison Ave, New York, NY",Advertising & Media,46845.78,Operations
+REC-AUTO-000032,Vanguard Cyber Incorporated,"500 Silicon Way, San Jose, CA",IT Services & Cloud,138091.87,Operations
+REC-AUTO-000033,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,HQ Central
+REC-AUTO-000034,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,HQ Central
+REC-AUTO-000035,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,IT Dept
+REC-AUTO-000036,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Operations
+REC-AUTO-000037,Pinnacle Marketing Ltd,"88 Madison Ave, New York, NY",Advertising & Media,47022.12,Regional Plant
+REC-AUTO-000038,Titan Heavy Ltd,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,85750.39,Operations
+REC-AUTO-000039,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Purchasing
+REC-AUTO-000040,Summit Enterprise,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,99481.52,Supply Chain
+REC-AUTO-000041,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000042,Titan Heavy Co.,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,96641.51,Purchasing
+REC-AUTO-000043,Apex Global Logistics LLC,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,39514.66,Regional Plant
+REC-AUTO-000044,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Operations
+REC-AUTO-000045,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Supply Chain
+REC-AUTO-000046,Commercial Horizon,"312 Elm St, Dallas, TX",Cleaning Services,17871.08,HQ Central
+REC-AUTO-000047,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000048,Horizon Commercial Incorporated,"312 Elm St, Dallas, TX",Cleaning Services,22384.76,Operations
+REC-AUTO-000049,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Purchasing
+REC-AUTO-000050,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,IT Dept
+REC-AUTO-000051,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,HQ Central
+REC-AUTO-000052,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Supply Chain
+REC-AUTO-000053,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Supply Chain
+REC-AUTO-000054,Pinnacle Marketing,"88 Madison Ave, New York, NY",Advertising & Media,47870.56,IT Dept
+REC-AUTO-000055,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Purchasing
+REC-AUTO-000056,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Operations
+REC-AUTO-000057,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,HQ Central
+REC-AUTO-000058,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000059,Legal Sterling Inc,"700 K St NW, Washington, DC",Legal & Compliance,133505.76,Regional Plant
+REC-AUTO-000060,Sterling Legal LLC,"700 K Street NW, Washington, DC",Legal & Compliance,164095.66,IT Dept
+REC-AUTO-000061,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Purchasing
+REC-AUTO-000062,Vanguard Cyber,"500 Silicon Way, San Jose, CA",IT Services & Cloud,126883.81,Purchasing
+REC-AUTO-000063,Moran Staffing LLC,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,73172.41,Regional Plant
+REC-AUTO-000064,Moran Staffing Co.,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,83612.93,Operations
+REC-AUTO-000065,Titan Heavy,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,81516.52,Purchasing
+REC-AUTO-000066,Staffing Moran,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,81275.94,IT Dept
+REC-AUTO-000067,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,HQ Central
+REC-AUTO-000068,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000069,Vanguard Cyber Ltd,"500 Silicon Way, San Jose, CA",IT Services & Cloud,124044.93,Regional Plant
+REC-AUTO-000070,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000071,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Supply Chain
+REC-AUTO-000072,Horizon Commercial LLC,"312 Elm Street, Dallas, TX",Cleaning Services,18474.68,Purchasing
+REC-AUTO-000073,Pinnacle Marketing Ltd,"88 Madison Avenue, New York, NY",Advertising & Media,66039.11,Regional Plant
+REC-AUTO-000074,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Supply Chain
+REC-AUTO-000075,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Purchasing
+REC-AUTO-000076,Heavy Titan Co.,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,104918.79,IT Dept
+REC-AUTO-000077,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Supply Chain
+REC-AUTO-000078,Pinnacle Marketing Co.,"88 Madison Ave, New York, NY",Advertising & Media,57660.19,IT Dept
+REC-AUTO-000079,Staffing Moran Incorporated,"1902 Shamrock Road, Dothan, AL",Contingent Labor,60994.56,Purchasing
+REC-AUTO-000080,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Operations
+REC-AUTO-000081,Moran Staffing Incorporated,"1902 Shamrock Road, Dothan, AL",Contingent Labor,67307.71,Regional Plant
+REC-AUTO-000082,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Regional Plant
+REC-AUTO-000083,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Purchasing
+REC-AUTO-000084,Pinnacle Marketing Corp,"88 Madison Avenue, New York, NY",Advertising & Media,54444.91,HQ Central
+REC-AUTO-000085,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,HQ Central
+REC-AUTO-000086,Horizon Commercial Incorporated,"312 Elm St, Dallas, TX",Cleaning Services,16604.80,Supply Chain
+REC-AUTO-000087,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Supply Chain
+REC-AUTO-000088,Packaging Modern,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32946.25,Operations
+REC-AUTO-000089,Apex Global Logistics Corp,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,38711.89,Supply Chain
+REC-AUTO-000090,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Operations
+REC-AUTO-000091,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Supply Chain
+REC-AUTO-000092,Apex Global Logistics Corp,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,50081.86,Purchasing
+REC-AUTO-000093,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000094,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000095,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000096,Pinnacle Marketing Corp,"88 Madison Avenue, New York, NY",Advertising & Media,65413.98,Operations
+REC-AUTO-000097,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000098,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000099,Modern Packaging Incorporated,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,33604.52,Supply Chain
+REC-AUTO-000100,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Operations
+REC-AUTO-000101,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000102,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,IT Dept
+REC-AUTO-000103,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000104,Bluecrest Facility Incorporated,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,31224.25,Operations
+REC-AUTO-000105,Bluecrest Facility Corp,"220 Market St, Philadelphia, PA",Facilities & Janitorial,29006.43,Operations
+REC-AUTO-000106,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000107,Vanguard Cyber Incorporated,"500 Silicon Way, San Jose, CA",IT Services & Cloud,130304.78,IT Dept
+REC-AUTO-000108,Summit Enterprise Inc,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,95014.49,Operations
+REC-AUTO-000109,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000110,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Operations
+REC-AUTO-000111,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Supply Chain
+REC-AUTO-000112,Apex Global Logistics Incorporated,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,46931.51,IT Dept
+REC-AUTO-000113,Sterling Legal Ltd,"700 K Streetreet NW, Washington, DC",Legal & Compliance,169666.59,Regional Plant
+REC-AUTO-000114,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Supply Chain
+REC-AUTO-000115,Modern Packaging Ltd,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,39479.07,IT Dept
+REC-AUTO-000116,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Regional Plant
+REC-AUTO-000117,Vanguard Cyber LLC,"500 Silicon Way, San Jose, CA",IT Services & Cloud,108062.45,Purchasing
+REC-AUTO-000118,Modern Packaging,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32777.94,Supply Chain
+REC-AUTO-000119,Modern Packaging Co.,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32058.43,Purchasing
+REC-AUTO-000120,Apex Global Logistics Incorporated,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45236.24,Operations
+REC-AUTO-000121,Packaging Modern LLC,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,33673.72,IT Dept
+REC-AUTO-000122,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Regional Plant
+REC-AUTO-000123,Moran Staffing Co.,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,65870.51,Supply Chain
+REC-AUTO-000124,Apex Global Logistics LLC,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,42422.94,Operations
+REC-AUTO-000125,Moran Staffing Incorporated,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,84984.21,Supply Chain
+REC-AUTO-000126,Modern Packaging Co.,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,35521.64,Operations
+REC-AUTO-000127,Pinnacle Marketing Inc,"88 Madison Ave, New York, NY",Advertising & Media,66611.64,HQ Central
+REC-AUTO-000128,Titan Heavy,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,98961.84,HQ Central
+REC-AUTO-000129,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Purchasing
+REC-AUTO-000130,Modern Packaging Co.,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,31510.55,Purchasing
+REC-AUTO-000131,Pinnacle Marketing Corp,"88 Madison Ave, New York, NY",Advertising & Media,46673.83,HQ Central
+REC-AUTO-000132,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000133,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,HQ Central
+REC-AUTO-000134,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,HQ Central
+REC-AUTO-000135,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Regional Plant
+REC-AUTO-000136,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Purchasing
+REC-AUTO-000137,Summit Enterprise Inc,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,91202.41,Purchasing
+REC-AUTO-000138,Commercial Horizon Incorporated,"312 Elm Street, Dallas, TX",Cleaning Services,19599.04,Operations
+REC-AUTO-000139,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,HQ Central
+REC-AUTO-000140,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,HQ Central
+REC-AUTO-000141,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000142,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,IT Dept
+REC-AUTO-000143,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Purchasing
+REC-AUTO-000144,Moran Staffing,"1902 Shamrock Road, Dothan, AL",Contingent Labor,69627.94,Operations
+REC-AUTO-000145,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Purchasing
+REC-AUTO-000146,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Purchasing
+REC-AUTO-000147,Sterling Legal Incorporated,"700 K Street NW, Washington, DC",Legal & Compliance,133023.78,IT Dept
+REC-AUTO-000148,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,HQ Central
+REC-AUTO-000149,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Regional Plant
+REC-AUTO-000150,Cyber Vanguard Inc,"500 Silicon Way, San Jose, CA",IT Services & Cloud,124653.68,Operations
+REC-AUTO-000151,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,IT Dept
+REC-AUTO-000152,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000153,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000154,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Purchasing
+REC-AUTO-000155,Apex Global Logistics Inc,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,55031.22,IT Dept
+REC-AUTO-000156,Apex Global Logistics LLC,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,44289.45,HQ Central
+REC-AUTO-000157,Horizon Commercial Corp,"312 Elm St, Dallas, TX",Cleaning Services,18326.90,HQ Central
+REC-AUTO-000158,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,HQ Central
+REC-AUTO-000159,Horizon Commercial Incorporated,"312 Elm St, Dallas, TX",Cleaning Services,22028.29,HQ Central
+REC-AUTO-000160,Titan Heavy Incorporated,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,92688.17,IT Dept
+REC-AUTO-000161,Bluecrest Facility Co.,"220 Market St, Philadelphia, PA",Facilities & Janitorial,29933.10,Purchasing
+REC-AUTO-000162,Cyber Vanguard Co.,"500 Silicon Way, San Jose, CA",IT Services & Cloud,124845.07,Supply Chain
+REC-AUTO-000163,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Regional Plant
+REC-AUTO-000164,Sterling Legal Incorporated,"700 K St NW, Washington, DC",Legal & Compliance,159048.01,HQ Central
+REC-AUTO-000165,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,IT Dept
+REC-AUTO-000166,Pinnacle Marketing,"88 Madison Ave, New York, NY",Advertising & Media,66632.96,Purchasing
+REC-AUTO-000167,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000168,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Supply Chain
+REC-AUTO-000169,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000170,Facility Bluecrest Incorporated,"220 Market St, Philadelphia, PA",Facilities & Janitorial,24484.49,Regional Plant
+REC-AUTO-000171,Apex Global Logistics Inc,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,44514.91,Regional Plant
+REC-AUTO-000172,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Operations
+REC-AUTO-000173,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Operations
+REC-AUTO-000174,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,IT Dept
+REC-AUTO-000175,Sterling Legal Incorporated,"700 K St NW, Washington, DC",Legal & Compliance,163915.45,Purchasing
+REC-AUTO-000176,Apex Global Logistics Inc,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,54235.13,Purchasing
+REC-AUTO-000177,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,HQ Central
+REC-AUTO-000178,Marketing Pinnacle Incorporated,"88 Madison Ave, New York, NY",Advertising & Media,56315.13,Supply Chain
+REC-AUTO-000179,Sterling Legal Incorporated,"700 K St NW, Washington, DC",Legal & Compliance,157494.34,Purchasing
+REC-AUTO-000180,Titan Heavy,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,101610.27,IT Dept
+REC-AUTO-000181,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000182,Cyber Vanguard Inc,"500 Silicon Way, San Jose, CA",IT Services & Cloud,110230.53,Purchasing
+REC-AUTO-000183,Moran Staffing Inc,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,75427.59,Operations
+REC-AUTO-000184,Bluecrest Facility Inc,"220 Market St, Philadelphia, PA",Facilities & Janitorial,25442.10,Regional Plant
+REC-AUTO-000185,Apex Global Logistics LLC,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,53825.46,IT Dept
+REC-AUTO-000186,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000187,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000188,Titan Heavy Incorporated,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,89909.37,Supply Chain
+REC-AUTO-000189,Modern Packaging Ltd,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,38174.73,IT Dept
+REC-AUTO-000190,Vanguard Cyber Incorporated,"500 Silicon Way, San Jose, CA",IT Services & Cloud,123226.78,Regional Plant
+REC-AUTO-000191,Enterprise Summit,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,81351.15,Purchasing
+REC-AUTO-000192,Sterling Legal Co.,"700 K Streetreet NW, Washington, DC",Legal & Compliance,182393.29,IT Dept
+REC-AUTO-000193,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Supply Chain
+REC-AUTO-000194,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Operations
+REC-AUTO-000195,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Operations
+REC-AUTO-000196,Titan Heavy Inc,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,99051.83,IT Dept
+REC-AUTO-000197,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000198,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Purchasing
+REC-AUTO-000199,Modern Packaging Ltd,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,28018.64,Supply Chain
+REC-AUTO-000200,Titan Heavy Incorporated,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,106132.32,Purchasing
+REC-AUTO-000201,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,IT Dept
+REC-AUTO-000202,Bluecrest Facility,"220 Market St, Philadelphia, PA",Facilities & Janitorial,31927.21,Operations
+REC-AUTO-000203,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000204,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Purchasing
+REC-AUTO-000205,Titan Heavy Corp,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,76318.54,Purchasing
+REC-AUTO-000206,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000207,Vanguard Cyber Corp,"500 Silicon Way, San Jose, CA",IT Services & Cloud,113799.21,HQ Central
+REC-AUTO-000208,Summit Enterprise Incorporated,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,78370.95,Supply Chain
+REC-AUTO-000209,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000210,Horizon Commercial Inc,"312 Elm Street, Dallas, TX",Cleaning Services,23314.06,Operations
+REC-AUTO-000211,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,HQ Central
+REC-AUTO-000212,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Purchasing
+REC-AUTO-000213,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000214,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Operations
+REC-AUTO-000215,Sterling Legal Incorporated,"700 K Street NW, Washington, DC",Legal & Compliance,171184.35,HQ Central
+REC-AUTO-000216,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000217,Marketing Pinnacle,"88 Madison Ave, New York, NY",Advertising & Media,49148.20,HQ Central
+REC-AUTO-000218,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Operations
+REC-AUTO-000219,Commercial Horizon LLC,"312 Elm St, Dallas, TX",Cleaning Services,20736.18,Supply Chain
+REC-AUTO-000220,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Supply Chain
+REC-AUTO-000221,Apex Global Logistics Ltd,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,39372.95,HQ Central
+REC-AUTO-000222,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Purchasing
+REC-AUTO-000223,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000224,Vanguard Cyber LLC,"500 Silicon Way, San Jose, CA",IT Services & Cloud,145202.55,HQ Central
+REC-AUTO-000225,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Regional Plant
+REC-AUTO-000226,Apex Global Logistics Inc,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,38749.47,Regional Plant
+REC-AUTO-000227,Moran Staffing Incorporated,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,74839.09,Purchasing
+REC-AUTO-000228,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Regional Plant
+REC-AUTO-000229,Bluecrest Facility Ltd,"220 Market St, Philadelphia, PA",Facilities & Janitorial,26689.45,Regional Plant
+REC-AUTO-000230,Vanguard Cyber Inc,"500 Silicon Way, San Jose, CA",IT Services & Cloud,127828.55,Supply Chain
+REC-AUTO-000231,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000232,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Supply Chain
+REC-AUTO-000233,Heavy Titan LLC,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,105932.65,IT Dept
+REC-AUTO-000234,Pinnacle Marketing Co.,"88 Madison Ave, New York, NY",Advertising & Media,66599.25,Purchasing
+REC-AUTO-000235,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,HQ Central
+REC-AUTO-000236,Apex Global Logistics Co.,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,42248.59,Purchasing
+REC-AUTO-000237,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000238,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000239,Apex Global Logistics Ltd,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,41027.56,Regional Plant
+REC-AUTO-000240,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Operations
+REC-AUTO-000241,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Operations
+REC-AUTO-000242,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Supply Chain
+REC-AUTO-000243,Heavy Titan Co.,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,88182.95,Operations
+REC-AUTO-000244,Apex Global Logistics LLC,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,44542.51,Supply Chain
+REC-AUTO-000245,Bluecrest Facility Inc,"220 Market St, Philadelphia, PA",Facilities & Janitorial,30446.19,Supply Chain
+REC-AUTO-000246,Modern Packaging Corp,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32638.93,Purchasing
+REC-AUTO-000247,Apex Global Logistics Inc,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,43091.57,HQ Central
+REC-AUTO-000248,Apex Global Logistics Inc,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,49632.85,Operations
+REC-AUTO-000249,Pinnacle Marketing LLC,"88 Madison Avenue, New York, NY",Advertising & Media,50400.28,HQ Central
+REC-AUTO-000250,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,HQ Central
+REC-AUTO-000251,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,HQ Central
+REC-AUTO-000252,Bluecrest Facility,"220 Market St, Philadelphia, PA",Facilities & Janitorial,32615.80,Supply Chain
+REC-AUTO-000253,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Purchasing
+REC-AUTO-000254,Moran Staffing Inc,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,77312.54,Operations
+REC-AUTO-000255,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000256,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Operations
+REC-AUTO-000257,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,HQ Central
+REC-AUTO-000258,Titan Heavy Inc,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,88733.97,Supply Chain
+REC-AUTO-000259,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,IT Dept
+REC-AUTO-000260,Summit Enterprise Ltd,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,87509.36,Operations
+REC-AUTO-000261,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Regional Plant
+REC-AUTO-000262,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000263,Vanguard Cyber LLC,"500 Silicon Way, San Jose, CA",IT Services & Cloud,146394.90,IT Dept
+REC-AUTO-000264,Moran Staffing LLC,"1902 Shamrock Road, Dothan, AL",Contingent Labor,65695.46,Regional Plant
+REC-AUTO-000265,Modern Packaging Co.,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,36696.09,Purchasing
+REC-AUTO-000266,Commercial Horizon Corp,"312 Elm St, Dallas, TX",Cleaning Services,20210.56,IT Dept
+REC-AUTO-000267,Apex Global Logistics Corp,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,40572.87,IT Dept
+REC-AUTO-000268,Apex Global Logistics Incorporated,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,43164.57,IT Dept
+REC-AUTO-000269,Pinnacle Marketing Co.,"88 Madison Ave, New York, NY",Advertising & Media,59002.55,Regional Plant
+REC-AUTO-000270,Titan Heavy LLC,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,103780.54,Operations
+REC-AUTO-000271,Heavy Titan Incorporated,"1440 Streeteel Mill Rd, Pittsburgh, PA",Equipment Rental,85948.83,Regional Plant
+REC-AUTO-000272,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,HQ Central
+REC-AUTO-000273,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,IT Dept
+REC-AUTO-000274,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000275,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Operations
+REC-AUTO-000276,Legal Sterling,"700 K St NW, Washington, DC",Legal & Compliance,166865.52,Regional Plant
+REC-AUTO-000277,Moran Staffing Co.,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,80660.13,HQ Central
+REC-AUTO-000278,Legal Sterling Ltd,"700 K St NW, Washington, DC",Legal & Compliance,165750.60,IT Dept
+REC-AUTO-000279,Vanguard Cyber Inc,"500 Silicon Way, San Jose, CA",IT Services & Cloud,140586.05,Operations
+REC-AUTO-000280,Vanguard Cyber LLC,"500 Silicon Way, San Jose, CA",IT Services & Cloud,146076.08,IT Dept
+REC-AUTO-000281,Modern Packaging Inc,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,37175.40,IT Dept
+REC-AUTO-000282,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,IT Dept
+REC-AUTO-000283,Pinnacle Marketing Co.,"88 Madison Avenue, New York, NY",Advertising & Media,63207.86,Regional Plant
+REC-AUTO-000284,Titan Heavy,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,99421.28,Regional Plant
+REC-AUTO-000285,Summit Enterprise Incorporated,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,106245.52,Operations
+REC-AUTO-000286,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000287,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Operations
+REC-AUTO-000288,Bluecrest Facility LLC,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,34058.20,Purchasing
+REC-AUTO-000289,Modern Packaging Inc,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,39555.08,Supply Chain
+REC-AUTO-000290,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Supply Chain
+REC-AUTO-000291,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,HQ Central
+REC-AUTO-000292,Moran Staffing,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,77760.44,Regional Plant
+REC-AUTO-000293,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,HQ Central
+REC-AUTO-000294,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000295,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,IT Dept
+REC-AUTO-000296,Summit Enterprise LLC,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,96663.15,Purchasing
+REC-AUTO-000297,Staffing Moran Corp,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,82004.46,IT Dept
+REC-AUTO-000298,Staffing Moran Co.,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68091.58,Operations
+REC-AUTO-000299,Moran Staffing Corp,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,73532.73,Operations
+REC-AUTO-000300,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Supply Chain
+REC-AUTO-000301,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000302,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Regional Plant
+REC-AUTO-000303,Summit Enterprise Incorporated,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,107858.14,IT Dept
+REC-AUTO-000304,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,HQ Central
+REC-AUTO-000305,Pinnacle Marketing Corp,"88 Madison Ave, New York, NY",Advertising & Media,61159.72,HQ Central
+REC-AUTO-000306,Apex Global Logistics,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,46683.00,HQ Central
+REC-AUTO-000307,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000308,Facility Bluecrest Inc,"220 Market St, Philadelphia, PA",Facilities & Janitorial,30796.08,Supply Chain
+REC-AUTO-000309,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,HQ Central
+REC-AUTO-000310,Apex Global Logistics Ltd,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,53201.98,Regional Plant
+REC-AUTO-000311,Pinnacle Marketing,"88 Madison Avenue, New York, NY",Advertising & Media,64500.71,Operations
+REC-AUTO-000312,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000313,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,IT Dept
+REC-AUTO-000314,Moran Staffing LLC,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,79665.90,IT Dept
+REC-AUTO-000315,Moran Staffing,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,73605.46,IT Dept
+REC-AUTO-000316,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000317,Sterling Legal Inc,"700 K Streetreet NW, Washington, DC",Legal & Compliance,155496.11,Regional Plant
+REC-AUTO-000318,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,IT Dept
+REC-AUTO-000319,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000320,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,HQ Central
+REC-AUTO-000321,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000322,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,HQ Central
+REC-AUTO-000323,Bluecrest Facility Co.,"220 Market St, Philadelphia, PA",Facilities & Janitorial,32606.90,IT Dept
+REC-AUTO-000324,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Operations
+REC-AUTO-000325,Moran Staffing,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,63862.77,HQ Central
+REC-AUTO-000326,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Purchasing
+REC-AUTO-000327,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Supply Chain
+REC-AUTO-000328,Bluecrest Facility Co.,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,24097.29,IT Dept
+REC-AUTO-000329,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Supply Chain
+REC-AUTO-000330,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Purchasing
+REC-AUTO-000331,Bluecrest Facility Incorporated,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,31258.78,Supply Chain
+REC-AUTO-000332,Summit Enterprise Ltd,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,111141.21,Supply Chain
+REC-AUTO-000333,Modern Packaging LLC,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,37782.13,Regional Plant
+REC-AUTO-000334,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000335,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Purchasing
+REC-AUTO-000336,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Regional Plant
+REC-AUTO-000337,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,IT Dept
+REC-AUTO-000338,Horizon Commercial Corp,"312 Elm Street, Dallas, TX",Cleaning Services,22336.78,Purchasing
+REC-AUTO-000339,Modern Packaging Ltd,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,29926.67,Regional Plant
+REC-AUTO-000340,Horizon Commercial,"312 Elm Street, Dallas, TX",Cleaning Services,19091.52,Regional Plant
+REC-AUTO-000341,Heavy Titan Corp,"1440 Streeteel Mill Road, Pittsburgh, PA",Equipment Rental,103507.16,Operations
+REC-AUTO-000342,Cyber Vanguard,"500 Silicon Way, San Jose, CA",IT Services & Cloud,132150.09,Purchasing
+REC-AUTO-000343,Apex Global Logistics Co.,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,53967.51,Purchasing
+REC-AUTO-000344,Horizon Commercial,"312 Elm Street, Dallas, TX",Cleaning Services,23492.12,Supply Chain
+REC-AUTO-000345,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Operations
+REC-AUTO-000346,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,HQ Central
+REC-AUTO-000347,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Regional Plant
+REC-AUTO-000348,Vanguard Cyber Inc,"500 Silicon Way, San Jose, CA",IT Services & Cloud,134255.04,HQ Central
+REC-AUTO-000349,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,HQ Central
+REC-AUTO-000350,Pinnacle Marketing Inc,"88 Madison Avenue, New York, NY",Advertising & Media,46537.77,Supply Chain
+REC-AUTO-000351,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Operations
+REC-AUTO-000352,Modern Packaging Inc,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,36786.91,HQ Central
+REC-AUTO-000353,Packaging Modern Inc,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,29421.74,Purchasing
+REC-AUTO-000354,Pinnacle Marketing LLC,"88 Madison Ave, New York, NY",Advertising & Media,58329.00,Operations
+REC-AUTO-000355,Titan Heavy Co.,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,76463.01,Purchasing
+REC-AUTO-000356,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,IT Dept
+REC-AUTO-000357,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000358,Summit Enterprise Ltd,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,80702.72,Supply Chain
+REC-AUTO-000359,Apex Global Logistics Inc,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,54729.05,Supply Chain
+REC-AUTO-000360,Summit Enterprise Inc,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,80185.03,Purchasing
+REC-AUTO-000361,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,IT Dept
+REC-AUTO-000362,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,IT Dept
+REC-AUTO-000363,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,IT Dept
+REC-AUTO-000364,Vanguard Cyber Incorporated,"500 Silicon Way, San Jose, CA",IT Services & Cloud,124199.04,IT Dept
+REC-AUTO-000365,Enterprise Summit Ltd,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,112635.24,IT Dept
+REC-AUTO-000366,Pinnacle Marketing,"88 Madison Avenue, New York, NY",Advertising & Media,63618.12,Supply Chain
+REC-AUTO-000367,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Purchasing
+REC-AUTO-000368,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,IT Dept
+REC-AUTO-000369,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Operations
+REC-AUTO-000370,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Regional Plant
+REC-AUTO-000371,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Purchasing
+REC-AUTO-000372,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Purchasing
+REC-AUTO-000373,Modern Packaging Incorporated,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,30933.95,IT Dept
+REC-AUTO-000374,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,HQ Central
+REC-AUTO-000375,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Purchasing
+REC-AUTO-000376,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,IT Dept
+REC-AUTO-000377,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,HQ Central
+REC-AUTO-000378,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Regional Plant
+REC-AUTO-000379,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Regional Plant
+REC-AUTO-000380,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Supply Chain
+REC-AUTO-000381,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Purchasing
+REC-AUTO-000382,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,IT Dept
+REC-AUTO-000383,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000384,Legal Sterling,"700 K Street NW, Washington, DC",Legal & Compliance,131244.73,HQ Central
+REC-AUTO-000385,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000386,Heavy Titan Inc,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,72703.61,Operations
+REC-AUTO-000387,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,Operations
+REC-AUTO-000388,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,IT Dept
+REC-AUTO-000389,Commercial Horizon,"312 Elm St, Dallas, TX",Cleaning Services,18180.08,Operations
+REC-AUTO-000390,Legal Sterling Corp,"700 K Street NW, Washington, DC",Legal & Compliance,156953.18,HQ Central
+REC-AUTO-000391,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000392,Pinnacle Marketing Corp,"88 Madison Ave, New York, NY",Advertising & Media,48953.00,IT Dept
+REC-AUTO-000393,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000394,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000395,Moran Staffing Corp,"1902 Shamrock Road, Dothan, AL",Contingent Labor,64416.70,Operations
+REC-AUTO-000396,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Purchasing
+REC-AUTO-000397,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Regional Plant
+REC-AUTO-000398,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000399,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000400,Apex Global Logistics Corp,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,52824.07,HQ Central
+REC-AUTO-000401,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Regional Plant
+REC-AUTO-000402,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000403,Facility Bluecrest Corp,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,24031.63,IT Dept
+REC-AUTO-000404,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
+REC-AUTO-000405,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Supply Chain
+REC-AUTO-000406,Sterling Legal,"700 K St NW, Washington, DC",Legal & Compliance,148295.89,Regional Plant
+REC-AUTO-000407,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Supply Chain
+REC-AUTO-000408,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,IT Dept
+REC-AUTO-000409,Apex Global Logistics Ltd,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,54107.32,HQ Central
+REC-AUTO-000410,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Purchasing
+REC-AUTO-000411,Summit Enterprise,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,90078.89,HQ Central
+REC-AUTO-000412,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Operations
+REC-AUTO-000413,Titan Heavy Co.,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,76154.06,Purchasing
+REC-AUTO-000414,Moran Staffing LLC,"1902 Shamrock Road, Dothan, AL",Contingent Labor,57876.67,Supply Chain
+REC-AUTO-000415,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,IT Dept
+REC-AUTO-000416,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Supply Chain
+REC-AUTO-000417,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Purchasing
+REC-AUTO-000418,Apex Global Logistics Incorporated,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,47778.40,Purchasing
+REC-AUTO-000419,Facility Bluecrest Ltd,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,33201.17,Purchasing
+REC-AUTO-000420,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Regional Plant
+REC-AUTO-000421,Packaging Modern Incorporated,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,36936.43,Purchasing
+REC-AUTO-000422,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Regional Plant
+REC-AUTO-000423,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,IT Dept
+REC-AUTO-000424,Modern Packaging Ltd,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,30801.09,Regional Plant
+REC-AUTO-000425,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000426,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,HQ Central
+REC-AUTO-000427,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Regional Plant
+REC-AUTO-000428,Moran Staffing Inc,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,69092.62,Supply Chain
+REC-AUTO-000429,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Regional Plant
+REC-AUTO-000430,Sterling Legal Inc,"700 K St NW, Washington, DC",Legal & Compliance,159992.02,IT Dept
+REC-AUTO-000431,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,HQ Central
+REC-AUTO-000432,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Operations
+REC-AUTO-000433,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,HQ Central
+REC-AUTO-000434,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,IT Dept
+REC-AUTO-000435,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,IT Dept
+REC-AUTO-000436,Moran Staffing Solutions,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,68000.00,IT Dept
+REC-AUTO-000437,Apex Global Logistics Co.,"100 Industrial Parkway, Atlanta, GA",Freight & Logistics,50657.16,Regional Plant
+REC-AUTO-000438,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Operations
+REC-AUTO-000439,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,IT Dept
+REC-AUTO-000440,Modern Packaging Ltd,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,27861.61,Regional Plant
+REC-AUTO-000441,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Purchasing
+REC-AUTO-000442,Bluecrest Facility Corp,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,30303.68,Purchasing
+REC-AUTO-000443,Horizon Commercial,"312 Elm St, Dallas, TX",Cleaning Services,22572.26,Supply Chain
+REC-AUTO-000444,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,HQ Central
+REC-AUTO-000445,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,HQ Central
+REC-AUTO-000446,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000447,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Purchasing
+REC-AUTO-000448,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Operations
+REC-AUTO-000449,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000450,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000451,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,HQ Central
+REC-AUTO-000452,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Purchasing
+REC-AUTO-000453,Titan Heavy Inc,"1440 Steel Mill Road, Pittsburgh, PA",Equipment Rental,97887.81,IT Dept
+REC-AUTO-000454,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000455,Modern Packaging Corp,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,34192.10,HQ Central
+REC-AUTO-000456,Summit Enterprise Co.,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,113271.72,Purchasing
+REC-AUTO-000457,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Operations
+REC-AUTO-000458,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000459,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,HQ Central
+REC-AUTO-000460,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Purchasing
+REC-AUTO-000461,Horizon Commercial Inc,"312 Elm Street, Dallas, TX",Cleaning Services,22938.91,Regional Plant
+REC-AUTO-000462,Pinnacle Marketing Incorporated,"88 Madison Ave, New York, NY",Advertising & Media,48438.63,IT Dept
+REC-AUTO-000463,Enterprise Summit,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,114217.50,Regional Plant
+REC-AUTO-000464,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Supply Chain
+REC-AUTO-000465,Enterprise Summit Co.,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,112752.66,Operations
+REC-AUTO-000466,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Supply Chain
+REC-AUTO-000467,Summit Enterprise Software,"1200 Innovation Blvd, Austin, TX",SaaS & Licenses,92000.00,Regional Plant
+REC-AUTO-000468,Staffing Moran Incorporated,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,80014.70,Operations
+REC-AUTO-000469,Pinnacle Marketing Incorporated,"88 Madison Ave, New York, NY",Advertising & Media,64734.80,IT Dept
+REC-AUTO-000470,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,Purchasing
+REC-AUTO-000471,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Purchasing
+REC-AUTO-000472,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Regional Plant
+REC-AUTO-000473,Sterling Legal LLC,"700 K St NW, Washington, DC",Legal & Compliance,137672.46,HQ Central
+REC-AUTO-000474,Titan Heavy Machinery,"1440 Steel Mill Rd, Pittsburgh, PA",Equipment Rental,85000.00,HQ Central
+REC-AUTO-000475,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Operations
+REC-AUTO-000476,Moran Staffing Inc,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,67759.22,Supply Chain
+REC-AUTO-000477,Vanguard Cyber Technologies,"500 Silicon Way, San Jose, CA",IT Services & Cloud,120000.00,Supply Chain
+REC-AUTO-000478,Pinnacle Marketing Ltd,"88 Madison Avenue, New York, NY",Advertising & Media,58677.75,Purchasing
+REC-AUTO-000479,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Supply Chain
+REC-AUTO-000480,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Supply Chain
+REC-AUTO-000481,Modern Packaging Inc,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,38762.65,HQ Central
+REC-AUTO-000482,Modern Packaging Incorporated,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,37518.02,Operations
+REC-AUTO-000483,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,IT Dept
+REC-AUTO-000484,Vanguard Cyber Inc,"500 Silicon Way, San Jose, CA",IT Services & Cloud,121082.61,Regional Plant
+REC-AUTO-000485,Apex Global Logistics,"100 Industrial Pkwy, Atlanta, GA",Freight & Logistics,45000.00,Regional Plant
+REC-AUTO-000486,Sterling Legal Partners,"700 K Street NW, Washington, DC",Legal & Compliance,150000.00,Supply Chain
+REC-AUTO-000487,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000488,Summit Enterprise,"1200 Innovation Boulevard, Austin, TX",SaaS & Licenses,88806.47,Supply Chain
+REC-AUTO-000489,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,IT Dept
+REC-AUTO-000490,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,HQ Central
+REC-AUTO-000491,Bluecrest Facility LLC,"220 Market St, Philadelphia, PA",Facilities & Janitorial,34604.25,Supply Chain
+REC-AUTO-000492,Pinnacle Marketing Group,"88 Madison Ave, New York, NY",Advertising & Media,54000.00,Supply Chain
+REC-AUTO-000493,Sterling Legal,"700 K Streetreet NW, Washington, DC",Legal & Compliance,153291.91,IT Dept
+REC-AUTO-000494,Moran Staffing Inc,"1902 Shamrock Rd, Dothan, AL",Contingent Labor,76143.09,IT Dept
+REC-AUTO-000495,Bluecrest Facility Inc,"220 Market Street, Philadelphia, PA",Facilities & Janitorial,32414.96,Operations
+REC-AUTO-000496,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Regional Plant
+REC-AUTO-000497,Bluecrest Facility Management,"220 Market St, Philadelphia, PA",Facilities & Janitorial,28000.00,Operations
+REC-AUTO-000498,Pinnacle Marketing Ltd,"88 Madison Ave, New York, NY",Advertising & Media,54917.33,IT Dept
+REC-AUTO-000499,Horizon Commercial Cleaners,"312 Elm St, Dallas, TX",Cleaning Services,19000.00,Supply Chain
+REC-AUTO-000500,Modern Packaging International,"742 Evergreen Terr, Springfield, OR",Packaging & Boxes,32000.00,Purchasing
